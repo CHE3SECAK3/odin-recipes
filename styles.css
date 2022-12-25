@@ -1,0 +1,45 @@
+body {
+    background-color:antiquewhite;
+}
+
+.title {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: normal;
+    color:cornflowerblue;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+#main-title {
+    font-family: Impact, 'Arial Narrow Bold', sans-serif;
+    color:darkblue;
+    font-size: 60px;
+}
+
+.recipe-title {
+    color:rgb(194, 71, 0);
+    font-size: 60px;
+}
+
+.descr {
+    font-style: italic;
+}
+
+.descr .title {
+    font-size: 52px;
+}
+
+.ingredients,
+.steps {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.link {
+    color:darkgoldenrod;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.back-link {
+    color:blueviolet;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
